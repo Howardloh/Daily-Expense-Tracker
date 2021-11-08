@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694174699578",
+    "project_id": "howard-firebase",
+    "storage_bucket": "howard-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694174699578:android:b9614b0e3f7ec7abcca503",
+        "android_client_info": {
+          "package_name": "com.howard.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694174699578-g5qvrf0frvpfbikhcts248ts507086ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfA_WflXCJAg4GzUs2UDUuZUSdS54w620"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694174699578-g5qvrf0frvpfbikhcts248ts507086ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
